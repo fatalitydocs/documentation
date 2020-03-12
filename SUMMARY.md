@@ -12,3 +12,7 @@
 * [config](fatality/config.md)
 * [menu](fatality/menu.md)
 
+## CSGO
+
+* [engine\_client](csgo/engine_client.md)
+
