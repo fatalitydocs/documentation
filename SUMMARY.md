@@ -15,4 +15,5 @@
 ## CSGO
 
 * [engine\_client](csgo/engine_client.md)
+* [events](csgo/events.md)
 
