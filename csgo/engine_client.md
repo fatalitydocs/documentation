@@ -1,3 +1,7 @@
+---
+description: All functions and variables from csgo.engine_client
+---
+
 # engine\_client
 
 ### engine\_client:client\_cmd\_unrestricted
