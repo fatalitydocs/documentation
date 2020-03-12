@@ -4,7 +4,7 @@ description: All functions and variables from csgo.engine_client
 
 # events
 
-###  [events](https://wiki.alliedmods.net/Counter-Strike:_Global_Offensive_Events)
+### [events](https://wiki.alliedmods.net/Counter-Strike:_Global_Offensive_Events)
 
 ### events:add\_event
 
