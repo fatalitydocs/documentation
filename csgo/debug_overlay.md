@@ -33,3 +33,11 @@ Draws a box
 
 Draws a line
 
+### example
+
+```lua
+local debug_overlay = csgo.debug_overlay
+
+debug_overlay:add_line_overlay( csgo.vector3( 0, 0, 0 ), csgo.vector3( 10, 10, 10 ), csgo.color( 255, 255, 255 ), true, 10 )
+```
+

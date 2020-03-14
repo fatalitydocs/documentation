@@ -34,6 +34,8 @@ The tick count
  `csgo.global_vars.interval_per_tick`  
 The time between ticks
 
+### example
+
 ```lua
 local global_vars = csgo.global_vars
 
