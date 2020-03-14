@@ -17,6 +17,8 @@ description: All functions and variables from csgo.debug_overlay
 | color | csgo.color | The color of the overlay |
 | duration | float | The duration of the overlay |
 
+Draws a box
+
 ### csgo.debug\_overlay:add\_line\_overlay <a id="csgo-debug_overlay-add_box_overlay"></a>
 
 `csgo.debug_overlay:add_line_overlay(start, dest, color, skip_occlusion, duration)` : void
@@ -28,4 +30,6 @@ description: All functions and variables from csgo.debug_overlay
 | color | csgo.color | The color of the overlay |
 | skip\_occlusion | boolean | If true, the overlay will skip occlusion |
 | duration | float | The duration of the overlay |
+
+Draws a line
 
