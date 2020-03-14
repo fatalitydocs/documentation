@@ -54,3 +54,11 @@ Gets and returns the entity from the specified index
 
 `csgo.debug_overlay:get_localplayer()` : csgo.player
 
+### example
+
+```lua
+local entity_list = csgo.entity_list
+
+print( entity_list:get_max_players() )
+```
+
