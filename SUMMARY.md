@@ -18,4 +18,5 @@
 * [events](csgo/events.md)
 * [global\_vars](csgo/global_vars.md)
 * [debug\_overlay](csgo/debug_overlay.md)
+* [entity\_list](csgo/entity_list.md)
 
