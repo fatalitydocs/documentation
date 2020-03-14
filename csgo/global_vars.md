@@ -1,3 +1,7 @@
+---
+description: All functions and variables from csgo.global_vars
+---
+
 # global\_vars
 
 ### csgo.global\_vars.realtime

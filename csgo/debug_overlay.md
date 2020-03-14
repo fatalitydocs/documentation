@@ -1,3 +1,7 @@
+---
+description: All functions and variables from csgo.debug_overlay
+---
+
 # debug\_overlay
 
 ### csgo.debug\_overlay:add\_box\_overlay
