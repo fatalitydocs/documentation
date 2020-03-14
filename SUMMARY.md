@@ -16,4 +16,5 @@
 
 * [engine\_client](csgo/engine_client.md)
 * [events](csgo/events.md)
+* [global\_vars](csgo/global_vars.md)
 

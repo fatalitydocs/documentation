@@ -14,6 +14,15 @@ Adds a callback registered to the specified event.
 ### example
 
 ```lua
--- to do
+local events = csgo.interface_handler:get_events()
+function on_event(e)
+    if e:get_name() == "bomb_planted" then
+        print'bomb planted B)'
+    end
+end
+
+events:add_event("bomb_planted")
+
+fatality.callbacks:add("events", on_event)
 ```
 

@@ -57,7 +57,7 @@ Returns the map name
 ### example
 
 ```lua
-local engine = csgo.engine_client
+local engine = csgo.interface_handler:get_engine_client()
 
 engine:client_cmd_unrestricted( "+voicerecord" )
 ```
