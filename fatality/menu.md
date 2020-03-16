@@ -74,6 +74,8 @@ Creates and returns a multi combo
 | group | string | The name of the group |
 | control | string | The name of the control |
 
+Returns a reference to the specified gui object
+
 ### example
 
 ```lua
