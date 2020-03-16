@@ -65,7 +65,7 @@ Creates and returns a multi combo
 
 ### menu:get\_reference
 
-`fatality.menu:get_reference( tab, sub_tab, group, control)` : fatality.value
+`fatality.menu:get_reference(tab, sub_tab, group, control)` : fatality.value
 
 | ARGUMENT | TYPE | DESCRIPTION |
 | :--- | :--- | :--- |
