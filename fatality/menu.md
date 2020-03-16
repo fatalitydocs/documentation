@@ -51,7 +51,7 @@ Creates and returns a combo
 
 ### menu:add\_multi\_combo
 
-`fatality.menu:add_combo(control, tab, sub_tab, child, item)` : fatality.combobox
+ `fatality.menu:add_multi_combo(control, tab, sub_tab, child, item)` : fatality.combobox
 
 | ARGUMENT | TYPE | DESCRIPTION |
 | :--- | :--- | :--- |
