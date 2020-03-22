@@ -6,7 +6,7 @@ description: All functions and variables from csgo.entity_list
 
 ### csgo.entity\_list:get\_player <a id="csgo-debug_overlay-add_box_overlay"></a>
 
-`csgo.debug_overlay:get_player(index)` :  csgo.player
+`csgo.entity_list:get_player(index)` :  csgo.player
 
 | ARGUMENT | TYPE | DESCRIPTION |
 | :--- | :--- | :--- |
@@ -16,7 +16,7 @@ Gets and returns the player from the specified index
 
 ### csgo.entity\_list:get\_player\_from\_id <a id="csgo-debug_overlay-add_box_overlay"></a>
 
-`csgo.debug_overlay:get_player_from_id(id)` :  csgo.player
+`csgo.entity_list:get_player_from_id(id)` :  csgo.player
 
 | ARGUMENT | TYPE | DESCRIPTION |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@ Gets and returns the player from the specified userid
 
 ### csgo.entity\_list:get\_entity <a id="csgo-debug_overlay-add_box_overlay"></a>
 
-`csgo.debug_overlay:get_entity(index)` : csgo.entity
+`csgo.entity_list:get_entity(index)` : csgo.entity
 
 | ARGUMENT | TYPE | DESCRIPTION |
 | :--- | :--- | :--- |
@@ -36,7 +36,7 @@ Gets and returns the entity from the specified index
 
 ### csgo.entity\_list:get\_from\_handle <a id="csgo-debug_overlay-add_box_overlay"></a>
 
-`csgo.debug_overlay:get_from_handle(handle)` : csgo.entity
+`csgo.entity_list:get_from_handle(handle)` : csgo.entity
 
 | ARGUMENT | TYPE | DESCRIPTION |
 | :--- | :--- | :--- |
@@ -48,11 +48,11 @@ Gets and returns the entity from the specified index
 
 ### csgo.entity\_list:get\_max\_entities <a id="csgo-debug_overlay-add_box_overlay"></a>
 
-`csgo.debug_overlay:get_max_entities()` : int
+`csgo.entity_list:get_max_entities()` : int
 
 ### csgo.entity\_list:get\_localplayer <a id="csgo-debug_overlay-add_box_overlay"></a>
 
-`csgo.debug_overlay:get_localplayer()` : csgo.player
+`csgo.entity_list:get_localplayer()` : csgo.player
 
 ### example
 
